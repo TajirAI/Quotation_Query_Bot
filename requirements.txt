@@ -1,0 +1,4 @@
+undetected-chromedriver==3.5.5
+selenium==4.25.0
+rapidfuzz==3.10.1
+fpdf==1.7.2
